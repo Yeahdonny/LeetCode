@@ -40,13 +40,9 @@
 # .idea/modules.xml
 # .idea/*.iml
 # .idea/modules
-<<<<<<< HEAD
-*.iml
-=======
 ##################
 *.iml
 ##################
->>>>>>> origin/master
 # *.ipr
 
 # CMake
